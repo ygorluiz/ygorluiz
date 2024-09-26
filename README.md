@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ygor luiz
-- 📫 How to reach me y@ygorluiz.me
+- 📫 How to reach me y@ygorluiz.com
 
 <!---
 ygorluiz/ygorluiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
